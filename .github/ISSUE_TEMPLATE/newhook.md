@@ -1,6 +1,6 @@
 ---
 name: 申请添加钩子
-about: 提交你基于picbed图床开发的钩子扩展，便于用户在线选择式安装
+about: 提交你基于picbed图床开发的钩子扩展，便于用户在线选择式安装！
 title: "[PR]"
 labels: enhancement
 assignees: ''
@@ -17,7 +17,7 @@ assignees: ''
 
 GitHub：
 
---
+------
 
 Pypi：
 
