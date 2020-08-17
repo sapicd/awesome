@@ -5,7 +5,8 @@
         "desc": "上传视频到picbed",
         "github": "staugur/picbed-video",
         "pypi": "$name",
-        "status": "beta"
+        "status": "beta",
+        "catalog": "video"
     },
     {
         "name": "picbed-up2smms",
@@ -13,7 +14,8 @@
         "desc": "上传图片到sm.ms",
         "github": "staugur/picbed-up2smms",
         "pypi": "up2smms",
-        "status": "beta"
+        "status": "beta",
+        "catalog": "upload"
     },
     {
         "name": "picbed-up2superbed",
@@ -21,7 +23,8 @@
         "desc": "上传图片到聚合图床superbed.cn",
         "github": "staugur/picbed-up2superbed",
         "pypi": "up2superbed",
-        "status": "beta"
+        "status": "beta",
+        "catalog": "upload"
     },
     {
         "name": "picbed-up2oss",
@@ -29,7 +32,8 @@
         "desc": "上传图片到阿里云OSS",
         "github": "staugur/picbed-up2oss",
         "pypi": "up2oss",
-        "status": "beta"
+        "status": "beta",
+        "catalog": "upload"
     },
     {
         "name": "picbed-up2cos",
@@ -37,7 +41,8 @@
         "desc": "上传图片到腾讯云COS",
         "github": "staugur/picbed-up2cos",
         "pypi": "up2cos",
-        "status": "beta"
+        "status": "beta",
+        "catalog": "upload"
     },
     {
         "name": "picbed-smtp",
@@ -45,6 +50,7 @@
         "desc": "通过SMTP服务发送邮件",
         "github": "staugur/picbed-smtp",
         "pypi": "$name",
-        "status": "beta"
+        "status": "beta",
+        "catalog": "sendmail"
     }
 ]

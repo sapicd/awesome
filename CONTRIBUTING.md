@@ -31,11 +31,12 @@
         "desc": "[必填]一句话描述",
         "github": "[必填]<User>/<Repo>",
         "pypi": "$name",
-        "status": "<beta rc stable/production/ga>"
+        "status": "<beta rc stable/production/ga>",
+        "catalog: ""
     }
 ```
 
-注意前有逗号，后无逗号，多一个少一个都是非法的。
+注意前有逗号，后无逗号，且内部最后一个字段无逗号，多一个少一个都是非法的。
 
 按照 **<>** 内提示填写，注意必填项，特别说明以下字段：
 
@@ -44,6 +45,8 @@
 - pypi: 可移除、留空字段，特殊值 `$name` 表示同name
 
 - status: 程序状态，至少beta公测版本，rc是预发布，后三者是稳定版
+
+- catalog: 分类，即为模块文件内 ``__catalog__ `` ，比如upload
 
 填写完成，最好是格式化一下。
 

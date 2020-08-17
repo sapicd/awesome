@@ -22,3 +22,5 @@ GitHub：
 Pypi：
 
 状态：alpha beta rc stable/production/ga
+
+分类：如upload
