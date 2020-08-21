@@ -31,8 +31,7 @@
         "desc": "[必填]一句话描述",
         "github": "[必填]<User>/<Repo>",
         "pypi": "$name",
-        "status": "<beta rc stable/production/ga>",
-        "catalog: ""
+        "status": "<beta rc stable/production/ga>"
     }
 ```
 
@@ -46,11 +45,11 @@
 
 - status: 程序状态，至少beta公测版本，rc是预发布，后三者是稳定版
 
-- catalog: 分类，即为模块文件内 ``__catalog__ `` ，比如upload（目前暂未用到）
+- author: 作者，没有在上述内容中限定，因为其默认是github的<User>部分
 
-- author: 作者，没有在上述内容中限定，因为其默认是github字段<User>部分
+- home: 作者网站，同author，默认是 ``https://github.com/<User>``
 
-- home: 作者网站，同author，默认是https://github.com/<User>
+- catalog: 分类，即为模块文件内 ``__catalog__ `` ，比如upload（暂未用到）
 
 填写完成，最好是格式化一下。
 
