@@ -52,5 +52,14 @@
         "pypi": "$name",
         "status": "beta",
         "catalog": "sendmail"
+    },
+    {
+        "name": "picbed-oauth2-github",
+        "module": "oauth2gh",
+        "desc": "使用GitHub登录",
+        "github": "staugur/picbed-oauth2-github",
+        "pypi": "$name",
+        "status": "beta",
+        "catalog": "auth"
     }
 ]

@@ -46,7 +46,11 @@
 
 - status: 程序状态，至少beta公测版本，rc是预发布，后三者是稳定版
 
-- catalog: 分类，即为模块文件内 ``__catalog__ `` ，比如upload
+- catalog: 分类，即为模块文件内 ``__catalog__ `` ，比如upload（目前暂未用到）
+
+- author: 作者，没有在上述内容中限定，因为其默认是github字段<User>部分
+
+- home: 作者网站，同author，默认是https://github.com/<User>
 
 填写完成，最好是格式化一下。
 
