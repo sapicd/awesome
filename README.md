@@ -1,21 +1,21 @@
-# Awesome for picbed
+# Awesome for sapic
 
-[![](https://img.shields.io/github/release/staugur/picbed.svg?style=flat-square)](https://github.com/staugur/picbed/releases/latest)
+[![](https://img.shields.io/github/release/sapicd/sapic.svg?style=flat-square)](https://github.com/sapicd/sapic/releases/latest)
 
-picbed图床第三方钩子集合，收藏了经过审核且开源的钩子扩展。
+sapic（原名picbed）图床第三方钩子集合，收藏了经过审核且开源的钩子扩展。
 
 ## 列表
 
 |       名称        |         描述          |
 |------------------|-----------------------|
-| [picbed-video](https://github.com/staugur/picbed-video) | 上传视频到picbed |
-| [picbed-up2smms](https://github.com/staugur/picbed-up2smms) | 上传图片到sm.ms |
-| [picbed-up2superbed](https://github.com/staugur/picbed-up2superbed) | 上传图片到聚合图床superbed.cn |
-| [picbed-up2oss](https://github.com/staugur/picbed-up2oss) | 上传图片到阿里云OSS |
-| [picbed-up2cos](https://github.com/staugur/picbed-up2cos) | 上传图片到腾讯云COS |
-| [picbed-smtp](https://github.com/staugur/picbed-smtp) | 通过SMTP服务发送邮件 |
-| [picbed-oauth2-github](https://github.com/staugur/picbed-oauth2-github) | 使用GitHub登录 |
-
+| [video](https://github.com/sapicd/video) | 上传视频到sapic（已内置实现） |
+| [up2smms](https://github.com/sapicd/up2smms) | 上传图片到sm.ms |
+| [up2superbed](https://github.com/sapicd/up2superbed) | 上传图片到聚合图床superbed.cn |
+| [up2oss](https://github.com/sapicd/up2oss) | 上传图片到阿里云OSS |
+| [up2cos](https://github.com/sapicd/up2cos) | 上传图片到腾讯云COS |
+| [smtp](https://github.com/sapicd/smtp) | 通过SMTP服务发送邮件 |
+| [oauth2-github](https://github.com/sapicd/oauth2-github) | 使用GitHub登录 |
+| [up2s3](https://github.com/sapicd/up2oss) | 上传图片到AWS S3存储 |
 
 ## 提交
 

@@ -1,65 +1,74 @@
 [
     {
-        "name": "picbed-video",
+        "name": "video",
         "module": "upvideo",
         "desc": "上传视频到picbed",
-        "github": "staugur/picbed-video",
+        "github": "sapicd/video",
         "pypi": "$name",
         "status": "beta",
         "catalog": "video"
     },
     {
-        "name": "picbed-up2smms",
+        "name": "up2smms",
         "module": "up2smms",
         "desc": "上传图片到sm.ms",
-        "github": "staugur/picbed-up2smms",
+        "github": "sapicd/up2smms",
         "pypi": "up2smms",
         "status": "beta",
         "catalog": "upload"
     },
     {
-        "name": "picbed-up2superbed",
+        "name": "up2superbed",
         "module": "up2superbed",
         "desc": "上传图片到聚合图床superbed.cn",
-        "github": "staugur/picbed-up2superbed",
+        "github": "sapicd/up2superbed",
         "pypi": "up2superbed",
         "status": "beta",
         "catalog": "upload"
     },
     {
-        "name": "picbed-up2oss",
+        "name": "up2oss",
         "module": "up2oss",
         "desc": "上传图片到阿里云OSS",
-        "github": "staugur/picbed-up2oss",
+        "github": "sapicd/up2oss",
         "pypi": "up2oss",
         "status": "beta",
         "catalog": "upload"
     },
     {
-        "name": "picbed-up2cos",
+        "name": "up2cos",
         "module": "up2cos",
         "desc": "上传图片到腾讯云COS",
-        "github": "staugur/picbed-up2cos",
+        "github": "sapicd/up2cos",
         "pypi": "up2cos",
         "status": "beta",
         "catalog": "upload"
     },
     {
-        "name": "picbed-smtp",
+        "name": "smtp",
         "module": "picbed_smtp",
         "desc": "通过SMTP服务发送邮件",
-        "github": "staugur/picbed-smtp",
+        "github": "sapicd/smtp",
         "pypi": "$name",
         "status": "beta",
         "catalog": "sendmail"
     },
     {
-        "name": "picbed-oauth2-github",
+        "name": "oauth2-github",
         "module": "oauth2gh",
         "desc": "使用GitHub登录",
-        "github": "staugur/picbed-oauth2-github",
+        "github": "sapicd/oauth2-github",
         "pypi": "$name",
         "status": "beta",
         "catalog": "auth"
+    },
+    {
+        "name": "up2s3",
+        "module": "up2s3",
+        "desc": "上传图片到S3",
+        "github": "sapicd/up2s3",
+        "pypi": "$name",
+        "status": "beta",
+        "catalog": "upload"
     }
 ]
