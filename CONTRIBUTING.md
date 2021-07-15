@@ -45,7 +45,7 @@
 
 - status: 程序状态，至少beta公测版本，rc是预发布，后三者是稳定版
 
-- author: 作者，没有在上述内容中限定，因为其默认是github的<User>部分
+- author: 作者，没有在上述内容中限定，因为其默认是github的 `<User>` 部分
 
 - home: 作者网站，同author，默认是 ``https://github.com/<User>``
 
