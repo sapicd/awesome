@@ -4,6 +4,7 @@
         "module": "upvideo",
         "desc": "上传视频到picbed",
         "github": "sapicd/video",
+        "author": "staugur",
         "pypi": "$name",
         "status": "beta",
         "catalog": "video"
@@ -13,6 +14,7 @@
         "module": "up2smms",
         "desc": "上传图片到sm.ms",
         "github": "sapicd/up2smms",
+        "author": "staugur",
         "pypi": "up2smms",
         "status": "beta",
         "catalog": "upload"
@@ -22,6 +24,7 @@
         "module": "up2superbed",
         "desc": "上传图片到聚合图床superbed.cn",
         "github": "sapicd/up2superbed",
+        "author": "staugur",
         "pypi": "up2superbed",
         "status": "beta",
         "catalog": "upload"
@@ -31,6 +34,7 @@
         "module": "up2oss",
         "desc": "上传图片到阿里云OSS",
         "github": "sapicd/up2oss",
+        "author": "staugur",
         "pypi": "up2oss",
         "status": "beta",
         "catalog": "upload"
@@ -40,6 +44,7 @@
         "module": "up2cos",
         "desc": "上传图片到腾讯云COS",
         "github": "sapicd/up2cos",
+        "author": "staugur",
         "pypi": "up2cos",
         "status": "beta",
         "catalog": "upload"
@@ -49,6 +54,7 @@
         "module": "picbed_smtp",
         "desc": "通过SMTP服务发送邮件",
         "github": "sapicd/smtp",
+        "author": "staugur",
         "pypi": "$name",
         "status": "beta",
         "catalog": "sendmail"
@@ -58,6 +64,7 @@
         "module": "oauth2gh",
         "desc": "使用GitHub登录",
         "github": "sapicd/oauth2-github",
+        "author": "staugur",
         "pypi": "$name",
         "status": "beta",
         "catalog": "auth"
@@ -67,6 +74,7 @@
         "module": "up2s3",
         "desc": "上传图片到S3",
         "github": "sapicd/up2s3",
+        "author": "staugur",
         "pypi": "$name",
         "status": "beta",
         "catalog": "upload"

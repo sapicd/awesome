@@ -12,7 +12,7 @@
 
 ## 通过Issue提交
 
-请 [新建Issue](https://github.com/staugur/picbed-awesome/issues/new?assignees=&labels=enhancement&template=newhook.md&title=%5BPR%5D)，按照模板提供信息，由作者添加。
+请 [新建Issue](https://github.com/sapicd/awesome/issues/new?assignees=&labels=enhancement&template=newhook.md&title=%5BPR%5D)，按照模板提供信息，由作者添加。
 
 ## 通过PR提交
 
