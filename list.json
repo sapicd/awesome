@@ -50,7 +50,7 @@
         "catalog": "upload"
     },
     {
-        "name": "smtp",
+        "name": "picbed-smtp",
         "module": "picbed_smtp",
         "desc": "通过SMTP服务发送邮件",
         "github": "sapicd/smtp",
