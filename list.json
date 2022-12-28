@@ -2,11 +2,11 @@
     {
         "name": "video",
         "module": "upvideo",
-        "desc": "上传视频到picbed",
+        "desc": "上传视频到picbed（已内置实现）",
         "github": "sapicd/video",
         "author": "staugur",
         "pypi": "$name",
-        "status": "beta",
+        "status": "archive",
         "catalog": "video"
     },
     {

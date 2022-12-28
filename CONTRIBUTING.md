@@ -8,7 +8,7 @@
 
 - 基本稳定，无明显Bug，且积极开发维护
 
-- 支持Python2.7、3.5+
+- 支持Python3.8+
 
 ## 通过Issue提交
 
@@ -31,7 +31,7 @@
         "desc": "[必填]一句话描述",
         "github": "[必填]<User>/<Repo>",
         "pypi": "$name",
-        "status": "<beta rc stable/production/ga>"
+        "status": "<beta rc stable/production/ga archive>"
     }
 ```
 
@@ -43,7 +43,7 @@
 
 - pypi: 可移除、留空字段，特殊值 `$name` 表示同name
 
-- status: 程序状态，至少beta公测版本，rc是预发布，后三者是稳定版
+- status: 程序状态，至少beta公测版本，rc是预发布，后三者是稳定版，archive是封存
 
 - author: 作者，没有在上述内容中限定，因为其默认是github的 `<User>` 部分
 
