@@ -5,7 +5,7 @@
         "desc": "上传视频到picbed（已内置实现）",
         "github": "sapicd/video",
         "author": "staugur",
-        "pypi": "$name",
+        "pypi": "picbed-video",
         "status": "archive",
         "catalog": "video"
     },
