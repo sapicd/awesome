@@ -15,7 +15,8 @@ sapic（原名picbed）图床第三方钩子集合，收藏了经过审核且开
 | [up2cos](https://github.com/sapicd/up2cos) | 上传图片到腾讯云COS |
 | [smtp](https://github.com/sapicd/smtp) | 通过SMTP服务发送邮件 |
 | [oauth2-github](https://github.com/sapicd/oauth2-github) | 使用GitHub登录 |
-| [up2s3](https://github.com/sapicd/up2oss) | 上传图片到AWS简单存储S3 |
+| [up2s3](https://github.com/sapicd/up2s3) | 上传图片到AWS简单存储S3 |
+| [upb2](https://github.com/sapicd/up2b2) | 上传图片到Backblaze B2 |
 
 ## 提交
 

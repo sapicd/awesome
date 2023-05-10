@@ -72,8 +72,18 @@
     {
         "name": "up2s3",
         "module": "up2s3",
-        "desc": "上传图片到S3",
+        "desc": "上传图片到AWS S3",
         "github": "sapicd/up2s3",
+        "author": "staugur",
+        "pypi": "$name",
+        "status": "beta",
+        "catalog": "upload"
+    },
+    {
+        "name": "up2b2",
+        "module": "up2b2",
+        "desc": "上传图片到Backblaze B2",
+        "github": "sapicd/up2b2",
         "author": "staugur",
         "pypi": "$name",
         "status": "beta",
