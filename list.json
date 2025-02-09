@@ -65,7 +65,7 @@
         "desc": "使用GitHub登录",
         "github": "sapicd/oauth2-github",
         "author": "staugur",
-        "pypi": "$name",
+        "pypi": "picbed-oauth2-github",
         "status": "beta",
         "catalog": "auth"
     },
